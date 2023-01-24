@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  },
+  "dependencies": {
+    "html-build": "^1.0.1",
+    "html-minifier": "^4.0.0"
+  }
+}
